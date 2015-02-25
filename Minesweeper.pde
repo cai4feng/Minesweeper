@@ -15,7 +15,7 @@ private boolean clickable=false;
 
 void setup ()
 {
-    size(SIZE_WIDTH, SIZE_HEIGHT+SIZE_MESSAGE);
+    size(SIZE_WIDTH, SIZE_HEIGHT);
     textAlign(CENTER,CENTER);
     textSize(11);
     stroke(0);
